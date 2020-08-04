@@ -1,0 +1,124 @@
+.Navbar{
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+.Navbar2{
+  position: absolute;
+  right: 5%;
+}
+/* .Navbar3{
+  position: absolute;
+  left: 2.5%;
+} */
+.anchors{
+padding-right: 10px;
+padding-left: 10px;
+color: #000000;
+text-decoration: underline;
+}
+.img{
+  width: 100%;
+}
+.parent {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.children{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h1{
+  font-family: 'Tangerine', cursive;
+  color: #000000;
+}
+.paragraphs{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 1rem;
+}
+.icon-div{
+  position: relative;
+text-align: center;
+width: 100%;
+}
+.me{
+  width: 10%;
+}
+.Hi{
+  color: #80D0C7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+}
+.me2{
+  width: 5%;
+}
+.ps{
+  width: 15%;
+}
+.Fe{
+  width: 15%;
+}
+h3{
+  text-align: center;
+  text-decoration: underline;
+  color:#80D0C7;
+}
+.s1{
+  width: 25%;
+  margin-left: 36%;
+}
+.s2{
+width: 25%;
+margin-left: 36%;
+}
+.s3{
+  width: 25%;
+  margin-left: 36%;
+}
+.card-body{
+  margin-left: auto;
+  margin-right: auto;
+}
+.hobby{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+/* css button */
+.myButton {
+	box-shadow: 0px 4px 9px 0px #16b8e0;
+	background-color:#67e087;
+	border-radius:9px;
+	border:1px solid #2de33d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:9px 10px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.Email{
+ width: 100%;
+ text-align: center;
+}
+.footer{
+  margin-bottom: 0;
+  height: 100px;
+  background-color: #ffffff;
+  text-align:center;
+}
+.footerneedspadding{
+  padding-top: 2%;
+}
